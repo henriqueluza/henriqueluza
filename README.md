@@ -41,14 +41,22 @@ Estudante de Engenharia da Computação e desenvolvedor web.
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 
-    
+    <div>
+ <img src="https://raw.githubusercontent.com/henriqueluza/henriqueluza/output/snake.svg" alt="Snake animation" />
+</div>
 </div>
 
 ## 📊 Stats
+
+###
+
 <div>
- <img height=180 src=https://github-readme-stats.vercel.app/api?username=henriqueluza&show_icons=true&theme=radical&include_all_commits=true>
-  <img height=180 src=https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueluza&theme=radical&include_all_commits=true>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henriqueluza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=henriqueluza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
+
+###
+
 
 ## 🌐 Socials
 
