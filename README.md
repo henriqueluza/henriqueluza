@@ -43,6 +43,7 @@ Estudante de Engenharia da Computação e desenvolvedor web.
 
 </div>
 
+## 🐍 Commits
 
 <div>
  <img src="https://raw.githubusercontent.com/henriqueluza/henriqueluza/output/snake.svg" alt="Snake animation" />
