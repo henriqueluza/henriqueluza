@@ -1,4 +1,4 @@
-# 👾 Opa, me chamo Henrique Luza:
+# 👾 Oi, me chamo Henrique Luza:
 
 <!--
 **henriqueluza/henriqueluza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,8 +46,7 @@ Estudante de Engenharia da Computação e desenvolvedor web.
 
 ## 📊 Stats
 <div>
-  <img height=180 src=https://github-readme-stats.vercel.app/api?username=henriqueluza&show_icons=true&theme=radical&include_all_commits=true>
-  <img height=180 src=https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueluza&theme=radical&include_all_commits=true>
+
 </div>
 
 ## 🌐 Socials
