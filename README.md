@@ -41,10 +41,13 @@ Estudante de Engenharia da Computação e desenvolvedor web.
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 
-    <div>
+</div>
+
+
+<div>
  <img src="https://raw.githubusercontent.com/henriqueluza/henriqueluza/output/snake.svg" alt="Snake animation" />
 </div>
-</div>
+
 
 ## 📊 Stats
 
