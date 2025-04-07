@@ -95,7 +95,6 @@ Atualmente, estou aprendendo:
 
 ## 🌐 Socials
 
-<a href="https://discord.com/invite/hluza"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://leetcode.com/u/henriqueluza/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
 <a href="https://linkedin.com/in/henrique-luza"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
