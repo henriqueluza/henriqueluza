@@ -14,12 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Estudante de Engenharia da Computação e desenvolvedor web.
+Estudante de Engenharia da Computação e aprendendo sobre desenvolvimento web.
 
 ## 👽 Sobre mim
 
 * Estudante de Engenharia da Computação do UniCeub
-* Atualmente buscando estágio como Desenvolvedor Web Front-end
 * Gosto de resolver desafios e encontar soluções para problemas
 * Entre em contato através de henriqueluza@gmail.com
           
