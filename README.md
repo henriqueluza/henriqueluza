@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 
 Estudante de Engenharia da Computação e aprendendo sobre desenvolvimento web.
 
-## 👽 Sobre mim
+## ⚡ Sobre mim
 
 * Estudante de Engenharia da Computação do UniCeub
 * Gosto de resolver desafios e encontar soluções para problemas
 * Entre em contato através de henriqueluza@gmail.com
+* Portfolio: <a href="https://henriqueluza.vercel.app/">https://henriqueluza.vercel.app/</a>
           
 
 ## 🐍 Commits
