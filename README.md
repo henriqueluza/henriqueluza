@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Estudante de Engenharia da Computação e aprendendo sobre desenvolvimento web.
+Estudante de Engenharia da Computação e aprendendo sobre ciência de dados.
 
 ## ⚡ Sobre mim
 
