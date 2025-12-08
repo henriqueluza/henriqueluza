@@ -21,8 +21,13 @@ Estudante de Engenharia da Computação e aprendendo sobre ciência de dados.
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 📊 GitHub Stats:
 
-![](https://nirzak-streak-stats.vercel.app/?user=henriqueluza&theme=radical&hide_border=false) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueluza&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1800)
+![commits](https://nirzak-streak-stats.vercel.app/?user=henriqueluza&theme=radical&hide_border=false) 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriqueluza)](https://github.com/henriqueluza/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueluza)](https://github.com/henriqueluza/github-readme-stats)
+
+![github contribution grid snake animation](https://github.com/henriqueluza/henriqueluza/blob/main/github-contribution-grid-snake.svg)
 
 
 
