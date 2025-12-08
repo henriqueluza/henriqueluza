@@ -27,9 +27,6 @@ Estudante de Engenharia da Computação e aprendendo sobre ciência de dados.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueluza)](https://github.com/henriqueluza/github-readme-stats)
 
-![github contribution grid snake animation](https://github.com/henriqueluza/henriqueluza/blob/main/github-contribution-grid-snake.svg)
-
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
