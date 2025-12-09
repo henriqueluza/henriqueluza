@@ -21,11 +21,16 @@ Estudante de Engenharia da Computação e aprendendo sobre ciência de dados.
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 📊 GitHub Stats:
 
-![commits](https://nirzak-streak-stats.vercel.app/?user=henriqueluza&theme=radical&hide_border=false) 
 
-![GitHub stats](https://github-readme-stats-hluza.vercel.app/api?username=henriqueluza&show_icons=true&theme=radical&cache_seconds=7200&hide=issues,contribs)
-
-![Top Langs](https://github-readme-stats-hluza.vercel.app/api/top-langs/?username=henriqueluza&layout=compact&theme=radical)
+<div align="center">
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=henriqueluza&theme=radical&hide_border=false" />
+          <img height="180em" src="https://github-readme-stats-hluza.vercel.app/api/top-langs/?username=henriqueluza&layout=compact&theme=radical" />
+ 
+  
+  <br />
+  
+   <img height="180em" src="https://github-readme-stats-hluza.vercel.app/api?username=henriqueluza&show_icons=true&theme=radical&cache_seconds=7200&hide=issues,contribs" />
+</div>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
