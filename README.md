@@ -1,7 +1,7 @@
 # 👾 Opa, me chamo Henrique Luza:
 
 
-Estudante de Engenharia da Computação e aprendendo sobre ciência de dados.
+Estudante de Engenharia da Computação e aprendendo sobre Ciência de Dados e Machine Learning.
 
 ## ⚡ Sobre mim
 
