@@ -3,7 +3,7 @@
 
 Estudante de Engenharia da Computação e aprendendo sobre Ciência de Dados e Machine Learning.
 
-## ⚡ Sobre mim
+## 🧠 Sobre mim
 
 * Estudante de Engenharia da Computação do UniCeub
 * Gosto de resolver desafios e encontar soluções para problemas
