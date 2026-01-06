@@ -3,11 +3,12 @@
 
 Estudante de Engenharia da Computação e aprendendo sobre Ciência de Dados e Machine Learning.
 
-# 🧠 Sobre mim
+# 🧠 Sobre mim:
 
 * Estudante de Engenharia da Computação do UniCeub
 * Gosto de resolver desafios e encontar soluções para problemas
 * Entre em contato através de henriqueluza@gmail.com
+* Estudando ciẽncia e engenharia de dados
 * Portfolio: <a href="https://henriqueluza.vercel.app/">https://henriqueluza.vercel.app/</a>
           
 
@@ -25,10 +26,10 @@ Estudante de Engenharia da Computação e aprendendo sobre Ciência de Dados e M
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48"/></a>
   <a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48"/></a>
   <a href="https://matplotlib.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="48" height="48"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="./Imagens/scikit-learn.png" alt="scikit-learn" width="48" height="48"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="scikitlearn.png" alt="scikit-learn" width="48" height="48"/></a>
   <a href="https://plotly.com/python/" target="_blank"><img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" width="48" height="48"/></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="48" height="48"/></a>
-  <a href="https://docs.pydantic.dev/" target="_blank"><img src="./Imagens/pydantic.png" alt="Pydantic" width="48" height="48"/></a>
+  <a href="https://docs.pydantic.dev/" target="_blank"><img src="pydantic.png" alt="Pydantic" width="48" height="48"/></a>
   <a href="https://streamlit.io/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="48" height="48"/></a>
   <!-- Bancos de Dados -->
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48"/></a>
@@ -38,6 +39,8 @@ Estudante de Engenharia da Computação e aprendendo sobre Ciência de Dados e M
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48"/></a>
   <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="48" height="48"/></a>
 </p>
+
+# 📊 Stats:
 
 <div align="center">
   <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=henriqueluza&theme=radical&hide_border=false" />
