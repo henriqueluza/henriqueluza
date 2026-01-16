@@ -46,11 +46,10 @@ Estudante de Engenharia da Computação e aprendendo sobre Ciência de Dados e M
 <div align="center">
   <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=henriqueluza&theme=radical&hide_border=false" />
           <img height="180em" src="https://github-readme-stats-hluza.vercel.app/api/top-langs/?username=henriqueluza&layout=compact&theme=radical" />
- 
   
   <br/>
   
-   <img height="180em" src="https://github-readme-stats-hluza.vercel.app/api?username=henriqueluza&show_icons=true&theme=radical&cache_seconds=7200&hide=issues,contribs" />
+   <img height="180em" src="https://github-readme-stats-hluza.vercel.app/api/?username=henriqueluza&show_icons=true&theme=radical&cache_seconds=7200&hide=issues,contribs" />
 </div>
 
 
