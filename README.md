@@ -29,6 +29,7 @@ Estudante de Engenharia da Computação e aprendendo sobre Ciência de Dados e M
   <a href="https://plotly.com/python/" target="_blank"><img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" width="48" height="48"/></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="48" height="48"/></a>
   <a href="https://docs.pydantic.dev/" target="_blank"><img src="pydantic.png" alt="Pydantic" width="48" height="48"/></a>
+<a><img src="Swagger.png" width="48" height="48"></a>
   <a href="https://streamlit.io/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="48" height="48"/></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48"/></a>
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="48" height="48"/></a>
