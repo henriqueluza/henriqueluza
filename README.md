@@ -55,9 +55,8 @@ Estudante de Engenharia da Computação e aprendendo sobre Ciência de Dados e M
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-luza)
-[![Email](https://img.shields.io/badge/-E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henriqueluza@gmail.com)
-
+<a href="https://www.linkedin.com/in/henrique-luza/"><img src="linkedin.svg" width="48" height="48"></a>
+<a href="henriqueluza@gmail.com"><img src="gmail.webp" width="48" height="48"></a>
 
 
 
