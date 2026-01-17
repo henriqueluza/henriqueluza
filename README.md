@@ -38,6 +38,7 @@ Estudante de Engenharia da Computação e aprendendo sobre Ciência de Dados e M
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" />
           <a><img src="Apache Airflow.png" width="48" height="48"></a>
+          <a><img src="pytest.png" width="48" height="48"></a>
           <a><img src="GitHub Actions.png" width="48" height="48"></a>
 </p>
 
