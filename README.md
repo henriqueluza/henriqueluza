@@ -27,6 +27,7 @@ Estudante de Engenharia da Computação e aprendendo sobre Ciência de Dados e M
   <a href="https://matplotlib.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="48" height="48"/></a>
   <a href="https://scikit-learn.org/" target="_blank"><img src="scikitlearn.png" alt="scikit-learn" width="48" height="48"/></a>
   <a href="https://plotly.com/python/" target="_blank"><img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" width="48" height="48"/></a>
+   <img src="optuna.png" width='48' height='48'>
 </p>
 
 ### 🌐 Frameworks & APIs
@@ -45,12 +46,24 @@ Estudante de Engenharia da Computação e aprendendo sobre Ciência de Dados e M
   <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48"/></a>
 </p>
 
-### ⚙️ DevOps & Ferramentas
+### ⚙️ MLOps & Ferramentas
 <p align="left">
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48"/></a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" />
+ <img src="mlflow.png" width='48' height='48'>
+ <img src="dvc.png" width='48' height='48'>
   <a><img src="Apache Airflow.png" alt="Apache Airflow" width="48" height="48"></a>
+</p>
+
+
+### Monitoring 
+
+<p align='left'>
+          <a><img src="evidently.png" width='48' height='48'></a>
+          <a><img src="prometheus.png" width='48' height='48'></a>
+          <a><img src="grafana.png" width='48' height='48'></a>
+          <a><img src="loguru.png" width='48' height='48'></a>
 </p>
 
 ### 🧪 Testes & CI/CD
