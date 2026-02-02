@@ -60,10 +60,10 @@ Estudante de Engenharia da Computação e aprendendo sobre Ciência de Dados e M
 ### Monitoring 
 
 <p align='left'>
-          <a><img src="evidently.png" width='48' height='48'></a>
-          <a><img src="prometheus.png" width='48' height='48'></a>
-          <a><img src="grafana.png" width='48' height='48'></a>
-          <a><img src="loguru.png" width='48' height='48'></a>
+  <a href="https://www.evidentlyai.com/" target="_blank"><img src="evidently.png" alt="Evidently" width='48' height='48'></a>
+  <a href="https://prometheus.io/" target="_blank"><img src="prometheus.png" alt="Prometheus" width='48' height='48'></a>
+  <a href="https://grafana.com/" target="_blank"><img src="grafana.png" alt="Grafana" width='48' height='48'></a>
+  <a href="https://loguru.readthedocs.io/" target="_blank"><img src="loguru.png" alt="Loguru" width='48' height='48'></a>
 </p>
 
 ### 🧪 Testes & CI/CD
