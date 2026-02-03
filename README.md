@@ -6,12 +6,11 @@ Estudante de Engenharia da Computação e aprendendo sobre Ciência de Dados e M
 # 🧠 Sobre mim:
 
 * Estudante de Engenharia da Computação do UniCeub;
-* Gosto de resolver desafios e encontar soluções para problemas;
+* Gosto de resolver desafios e encontrando soluções para problemas;
 * Entre em contato através de henriqueluza@gmail.com;
 * Estudando ciência de dados e engenharia de dados;
 * Portfolio: <a href="https://henriqueluza.vercel.app/">https://henriqueluza.vercel.app/</a>
           
-
 # 💻 Tech Stack:
 
 ### 🐍 Linguagens
@@ -88,7 +87,4 @@ Estudante de Engenharia da Computação e aprendendo sobre Ciência de Dados e M
 
 <a href="https://www.linkedin.com/in/henrique-luza/"><img src="linkedin.svg" width="48" height="48"></a>
 <a href="henriqueluza@gmail.com"><img src="gmail.webp" width="48" height="48"></a>
-
-
-
-
+<a href="https://leetcode.com/hluza/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="48" height="48"></a>
