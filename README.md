@@ -26,7 +26,7 @@ Estudante de Engenharia da Computação e aprendendo sobre Ciência de Dados e M
   <a href="https://matplotlib.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="48" height="48"/></a>
   <a href="https://scikit-learn.org/" target="_blank"><img src="scikitlearn.png" alt="scikit-learn" width="48" height="48"/></a>
   <a href="https://plotly.com/python/" target="_blank"><img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" width="48" height="48"/></a>
-   <img src="optuna.png" width='48' height='48'>
+   <!-- <img src="optuna.png" width='48' height='48'> -->
 </p>
 
 ### 🌐 Frameworks & APIs
@@ -34,7 +34,7 @@ Estudante de Engenharia da Computação e aprendendo sobre Ciência de Dados e M
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="48" height="48"/></a>
   <a href="https://docs.pydantic.dev/" target="_blank"><img src="pydantic.png" alt="Pydantic" width="48" height="48"/></a>
   <a><img src="Swagger.png" alt="Swagger" width="48" height="48"></a>
-  <a><img src="Postman.png" alt="Swagger" width="48" height="48"></a>
+  <!-- <a><img src="Postman.png" alt="Swagger" width="48" height="48"></a> -->
   <a href="https://streamlit.io/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="48" height="48"/></a>
 </p>
 
@@ -48,28 +48,13 @@ Estudante de Engenharia da Computação e aprendendo sobre Ciência de Dados e M
 ### ⚙️ MLOps & Ferramentas
 <p align="left">
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48"/></a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" />
- <img src="mlflow.png" width='48' height='48'>
+ <!-- <img src="mlflow.png" width='48' height='48'>
  <img src="dvc.png" width='48' height='48'>
-  <a><img src="Apache Airflow.png" alt="Apache Airflow" width="48" height="48"></a>
+  <a><img src="Apache Airflow.png" alt="Apache Airflow" width="48" height="48"></a> -->
 </p>
 
-
-### Monitoring 
-
-<p align='left'>
-  <a href="https://www.evidentlyai.com/" target="_blank"><img src="evidently.png" alt="Evidently" width='48' height='48'></a>
-  <a href="https://prometheus.io/" target="_blank"><img src="prometheus.png" alt="Prometheus" width='48' height='48'></a>
-  <a href="https://grafana.com/" target="_blank"><img src="grafana.png" alt="Grafana" width='48' height='48'></a>
-  <a href="https://loguru.readthedocs.io/" target="_blank"><img src="loguru.png" alt="Loguru" width='48' height='48'></a>
-</p>
-
-### 🧪 Testes & CI/CD
-<p align="left">
-  <a><img src="pytest.png" alt="pytest" width="48" height="48"></a>
-  <a><img src="GitHub Actions.png" alt="GitHub Actions" width="48" height="48"></a>
-</p>
 
 # 📊 Stats:
 
