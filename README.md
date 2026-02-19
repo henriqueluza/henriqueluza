@@ -44,7 +44,7 @@ Estudante de Engenharia da Computação e aprendendo sobre Ciência de Dados e M
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="48" height="48"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48"/></a>
           <img src="mongodb.svg" alt="mongo" width="48" height="48">
-          <img src="redis.png" alt="redis" width="48" height="48">
+          <img src="Redis.svg" alt="redis" width="48" height="48">
 </p>
 
 ### ⚙️ MLOps & Ferramentas
