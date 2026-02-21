@@ -34,9 +34,10 @@ Estudante de Engenharia da Computação e aprendendo sobre Ciência de Dados, De
           <img src="css.png" alt="redis" width="48" height="48">
           <img src="js.png" alt="js" width="48" height="48">
           <img src="ts.png" alt="ts" width="48" height="48">
-          <img src="React.png" alt="mongo" width="48" height="48">
-          <img src="Tailwind CSS.png" alt="tailwind" width="48" height="48">
+          <img src="React.png" alt="react" width="48" height="48">
           <img src="Vite.js.png" alt="vite" width="48" height="48">
+          <img src="Tailwind CSS.png" alt="tailwind" width="48" height="48">
+          
 </p>
 
 ### 🌐 Frameworks & APIs
