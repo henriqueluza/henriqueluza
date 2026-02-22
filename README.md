@@ -25,7 +25,6 @@ Estudante de Engenharia da Computação e aprendendo sobre Ciência de Dados, De
   <a href="https://scikit-learn.org/" target="_blank"><img src="scikitlearn.png" alt="scikit-learn" width="48" height="48"/></a>
   <a href="https://plotly.com/python/" target="_blank"><img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" width="48" height="48"/></a>
 <a href="https://streamlit.io/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="48" height="48"/></a>
-   <!-- <img src="optuna.png" width='48' height='48'> -->
 </p>
 
 ### 🐍 Desenvolvimento Web - Frontend
