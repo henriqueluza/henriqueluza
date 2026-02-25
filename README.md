@@ -8,8 +8,7 @@ Estudante de Engenharia da Computação e aprendendo sobre Ciência de Dados, De
 * Estudante de Engenharia da Computação do UniCeub;
 * Gosto de resolver desafios e encontrando soluções para problemas;
 * Entre em contato através de henriqueluza@gmail.com;
-* Estudando ciência de dados e engenharia de dados;
-* Portfolio: <a href="https://henriqueluza.vercel.app/">https://henriqueluza.vercel.app/</a>
+* Estudando desenvolvimento web fullstack;
           
 # 💻 Tech Stack:
 
