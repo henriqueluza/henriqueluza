@@ -13,19 +13,6 @@ Estudante de Engenharia da Computação e aprendendo sobre Ciência de Dados, De
 # 💻 Tech Stack:
 
 
-
-### 📊 Data Science & Machine Learning
-<p align="left">
-  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48"/></a>
-  <a href="https://www.r-project.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="48" height="48"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48"/></a>
-  <a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48"/></a>
-  <a href="https://matplotlib.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="48" height="48"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="scikitlearn.png" alt="scikit-learn" width="48" height="48"/></a>
-  <a href="https://plotly.com/python/" target="_blank"><img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" width="48" height="48"/></a>
-<a href="https://streamlit.io/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="48" height="48"/></a>
-</p>
-
 ### 🐍 Desenvolvimento Web - Frontend
 <p align="left">
   <img src="html.png" alt="html" width="48" height="48">
@@ -35,16 +22,32 @@ Estudante de Engenharia da Computação e aprendendo sobre Ciência de Dados, De
           <img src="React.png" alt="react" width="48" height="48">
           <img src="Vite.js.png" alt="vite" width="48" height="48">
           <img src="Tailwind CSS.png" alt="tailwind" width="48" height="48">
+          <img src="angular.png" alt="angular" width="48" height="48">
           
 </p>
 
 ### 🌐 Frameworks & APIs
 <p align="left">
+          <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48"/></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="48" height="48"/></a>
   <a href="https://docs.pydantic.dev/" target="_blank"><img src="pydantic.png" alt="Pydantic" width="48" height="48"/></a>
+          <img src="csharp.png" alt="c#" width="48" height="48">
+  <img src="NET core.png" alt="postman" width="48" height="48">
   <a><img src="Swagger.png" alt="Swagger" width="48" height="48"></a>
-  <a><img src="Postman.png" alt="Swagger" width="48" height="48"></a>
+  <a><img src="Postman.png" alt="postman" width="48" height="48"></a>
+
   
+</p>
+
+
+### 📊 Data Science & Machine Learning
+  <a href="https://www.r-project.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="48" height="48"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48"/></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48"/></a>
+  <a href="https://matplotlib.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="48" height="48"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="scikitlearn.png" alt="scikit-learn" width="48" height="48"/></a>
+  <a href="https://plotly.com/python/" target="_blank"><img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" width="48" height="48"/></a>
+<a href="https://streamlit.io/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="48" height="48"/></a>
 </p>
 
 ### 🗄️ Bancos de Dados
