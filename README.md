@@ -22,7 +22,7 @@ Estudante de Engenharia da Computação e aprendendo sobre Ciência de Dados, De
           <img src="React.png" alt="react" width="48" height="48">
           <img src="Vite.js.png" alt="vite" width="48" height="48">
           <img src="Tailwind CSS.png" alt="tailwind" width="48" height="48">
-          <img src="angular.png" alt="angular" width="48" height="48">
+          <!-- <img src="angular.png" alt="angular" width="48" height="48"> -->
           
 </p>
 
