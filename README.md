@@ -5,6 +5,7 @@ Estudante de Engenharia da Computação e aprendendo sobre Ciência de Dados, De
 
 # 🧠 Sobre mim:
 
+* Estudante de Engenharia de Software da UnB;
 * Estudante de Engenharia da Computação do UniCeub;
 * Gosto de resolver desafios e encontrando soluções para problemas;
 * Entre em contato através de henriqueluza@gmail.com;
