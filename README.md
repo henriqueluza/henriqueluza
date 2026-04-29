@@ -1,6 +1,6 @@
 ### Hi, I'm Henrique 👾
 
-**Backend Engineer** focused on building robust APIs and financial systems. Currently interning at **Sicoob**, one of Brazil's largest financial cooperatives, developing internal APIs in Java and Spring Boot.
+**Backend Engineer** focused on building robust APIs and financial systems. Currently interning at **Sicoob**, one of Brazil's largest financial cooperatives, working with internal APIs.
 
 Computer Engineering student · Brasília, Brazil
 
