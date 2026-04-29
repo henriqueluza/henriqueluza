@@ -1,74 +1,70 @@
-# 👾 Opa, me chamo Henrique Luza:
+### Hi, I'm Henrique 👾
+
+**Backend Engineer** focused on building robust APIs and financial systems. Currently interning at **Sicoob**, one of Brazil's largest financial cooperatives, developing internal APIs in Java and Spring Boot.
+
+Computer Engineering student · Brasília, Brazil
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-luza/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/hluza/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:henriqueluza@gmail.com)
+
+---
+
+### 💼 Currently
+
+- 🏦 **Software Engineering Intern @ Sicoob** — developing internal APIs in Java and Spring Boot for a cooperative serving millions of members across Brazil
+- 🔨 Building **FinAPI** — a personal finance REST API with Spring Boot 3, PostgreSQL, JWT auth and full test coverage
+- 🧩 Solving **LeetCode** daily — arrays, graphs, dynamic programming (NeetCode 150)
+
+---
+
+### 🛠 Tech Stack
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat&logo=flyway&logoColor=white)
+
+**Testing**
+
+![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-25A162?style=flat&logoColor=white)
+![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=flat&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F15B2A?logo=grafana&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🏗️ **[FinAPI](https://github.com/henriqueluza/fin-api)** *(in progress)* | Personal finance REST API — transactions, budgets and monthly summaries | Java 17 · Spring Boot 3 · PostgreSQL · JWT · Docker |
+| 🏢 **[CondoManager](https://github.com/henriqueluza/CondoManager)** | REST API for condominium management — Clean Architecture, role-based access, visitor flow | C# · ASP.NET Core 8 · SQL Server · JWT |
+| 📊 **[Credit Analysis Model](https://github.com/henriqueluza/Credit-Analysis-Model)** | End-to-end credit risk analysis with ML, REST API and interactive web interface | Python · scikit-learn · FastAPI |
+
+---
 
 
-Estudante de Engenharia da Computação e aprendendo sobre Ciência de Dados, Desenvolvimento Full-Stack e Desenvolvimento Mobile.
-
-# 🧠 Sobre mim:
-
-* Estudante de Engenharia de Software da UnB;
-* Estudante de Engenharia da Computação do UniCeub;
-* Gosto de resolver desafios e encontrando soluções para problemas;
-* Entre em contato através de henriqueluza@gmail.com;
-* Estudando desenvolvimento web fullstack;
-          
-# 💻 Tech Stack:
-
-
-### 🐍 Desenvolvimento Web - Frontend
-<p align="left">
-  <img src="html.png" alt="html" width="48" height="48">
-          <img src="css.png" alt="redis" width="48" height="48">
-          <img src="js.png" alt="js" width="48" height="48">
-          <img src="ts.png" alt="ts" width="48" height="48">
-          <img src="React.png" alt="react" width="48" height="48">
-          <img src="Vite.js.png" alt="vite" width="48" height="48">
-          <img src="Tailwind CSS.png" alt="tailwind" width="48" height="48">
-          <!-- <img src="angular.png" alt="angular" width="48" height="48"> -->
-          
-</p>
-
-### 🌐 Frameworks & APIs
-<p align="left">
-          <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48"/></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="48" height="48"/></a>
-  <a href="https://docs.pydantic.dev/" target="_blank"><img src="pydantic.png" alt="Pydantic" width="48" height="48"/></a>
-          <img src="csharp.png" alt="c#" width="48" height="48">
-  <img src="NET core.png" alt="postman" width="48" height="48">
-  <a><img src="Swagger.png" alt="Swagger" width="48" height="48"></a>
-  <a><img src="Postman.png" alt="postman" width="48" height="48"></a>
-
-  
-</p>
-
-
-### 📊 Data Science & Machine Learning
-  <a href="https://www.r-project.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="48" height="48"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48"/></a>
-  <a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48"/></a>
-  <a href="https://matplotlib.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="48" height="48"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="scikitlearn.png" alt="scikit-learn" width="48" height="48"/></a>
-  <a href="https://plotly.com/python/" target="_blank"><img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" width="48" height="48"/></a>
-<a href="https://streamlit.io/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="48" height="48"/></a>
-</p>
-
-### 🗄️ Bancos de Dados
-<p align="left">
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48"/></a>
-  <a href="https://www.sqlite.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="48" height="48"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48"/></a>
-          <img src="mongodb.svg" alt="mongo" width="48" height="48">
-          <img src="Redis.svg" alt="redis" width="48" height="48">
-</p>
-
-### ⚙️ DevOps, MLOps & Ferramentas
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48"/></a>
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" />
-</p>
-
-
-# 📊 Stats:
+### 📊 Stats:
 
 <div align="center">
   <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=henriqueluza&theme=radical&hide_border=false" />
@@ -78,10 +74,3 @@ Estudante de Engenharia da Computação e aprendendo sobre Ciência de Dados, De
   
    <img height="180em" src="https://github-readme-stats-hluza.vercel.app/api/?username=henriqueluza&show_icons=true&theme=radical&cache_seconds=7200&hide=issues,contribs" />
 </div>
-
-
-## 🌐 Socials
-
-<a href="https://www.linkedin.com/in/henrique-luza/"><img src="linkedin.svg" width="48" height="48"></a>
-<a href="henriqueluza@gmail.com"><img src="gmail.webp" width="48" height="48"></a>
-<a href="https://leetcode.com/hluza/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="48" height="48"></a>
