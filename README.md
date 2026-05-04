@@ -12,8 +12,8 @@ Computer Engineering student · Brasília, Brazil
 
 ### 💼 Currently
 
-- 🏦 **Software Engineering Intern @ Sicoob** — developing internal APIs in Java and Spring Boot for a cooperative serving millions of members across Brazil
-- 🔨 Building **FinAPI** — a personal finance REST API with Spring Boot 3, PostgreSQL, JWT auth and full test coverage
+- 🏦 **Software Engineering Intern @ Sicoob** — working witg internal APIs for a cooperative serving millions of members across Brazil
+- 🔨 Building **CoopBank** — a personal finance REST API with Spring Boot 3, PostgreSQL, JWT auth and full test coverage
 - 🧩 Solving **LeetCode** daily — arrays, graphs, dynamic programming (NeetCode 150)
 
 ---
@@ -57,7 +57,7 @@ Computer Engineering student · Brasília, Brazil
 
 | Project | Description | Stack |
 |---|---|---|
-| 🏗️ **[FinAPI](https://github.com/henriqueluza/fin-api)** *(in progress)* | Personal finance REST API — transactions, budgets and monthly summaries | Java 17 · Spring Boot 3 · PostgreSQL · JWT · Docker |
+| 🏗️ **[CoopBank](https://github.com/henriqueluza/coopbank)** *(in progress)* | Personal finance REST API — transactions, budgets, PIX and monthly summaries | Java 17 · Spring Boot 3 · PostgreSQL · JWT · Docker |
 | 🏢 **[CondoManager](https://github.com/henriqueluza/CondoManager)** | REST API for condominium management — Clean Architecture, role-based access, visitor flow | C# · ASP.NET Core 8 · SQL Server · JWT |
 | 📊 **[Credit Analysis Model](https://github.com/henriqueluza/Credit-Analysis-Model)** | End-to-end credit risk analysis with ML, REST API and interactive web interface | Python · scikit-learn · FastAPI |
 
