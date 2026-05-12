@@ -87,10 +87,6 @@ Computer Engineering student · Brasília, Brazil
 
 | Project | Description | Stack |
 |---|---|---|
-| 🏗️ **[CoopBank](https://github.com/henriqueluza/coopbank)** | Personal finance REST API — transactions, budgets, PIX and monthly summaries | Java 17 · Spring Boot 3 · PostgreSQL · JWT · Docker |
-| 🏦 **[BankCore](https://github.com/henriqueluza/bankcore)** | Banking microservices platform — accounts, transactions and notifications behind a Spring Cloud Gateway | Java 11 · Spring Boot · Angular 14 · PostgreSQL · Redis · Kubernetes · Ansible |
-| 📱 **[FinPocket](https://github.com/henriqueluza/finpocket)** | Cross-platform personal finance app with compound interest simulation and a Recharts dashboard | React Native · Kotlin · TypeScript · Firebase · Android API 30 |
-| 🔁 **[DataLake](https://github.com/henriqueluza/datalake)** | End-to-end financial data pipeline — Kafka ingestion, Spark transforms, star schema DW and Streamlit dashboard | Kafka · PySpark · Pandas · MongoDB · PostgreSQL · Airflow · AWS |
 | 🤖 **[CreditAI](https://github.com/henriqueluza/creditai)** | Fraud detection and credit scoring system — ensemble models, anomaly detection, fine-tuned BERT and a FastAPI serving layer | Python · scikit-learn · PyTorch · HuggingFace · FastAPI · MLflow · AWS |
 
 **Completed**
