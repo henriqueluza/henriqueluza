@@ -19,7 +19,7 @@ Software Engineering Student @ UnB - Brasília, Brazil
 
 ---
 
-### 🛠 Tech Stack
+<!--### 🛠 Tech Stack-->
 
 
 ### 🚀 Featured Projects
