@@ -9,6 +9,10 @@ Software Engineering Student @ UnB - Brasília, Brazil
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:henriqueluza@gmail.com)
 
 ---
+### 📚 Tech Stack
+
+
+---
 
 ### 💼 Currently
 
