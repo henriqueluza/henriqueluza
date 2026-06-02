@@ -32,7 +32,7 @@ Software Engineering Student @ UnB - Brasília, Brazil
 
 | Project | Description | Stack |
 |---|---|---|
-| 🚧 **[ArgusBank](https://github.com/henriqueluza/ArgusBank)** | An integrated platform using artificial intelligence to detect fraud and analyze complex banking risks instantly.| SpringBoot · Angular · Kafka · PySpark · SQL · MongoDB · Neo4J · Docker · Kubernetes · Github Actions · scikit-learn · PyTorch · TensorFlow · JUnit · Mockito |
+| 🚧 **[ArgusBank](https://github.com/henriqueluza/argus-bank)** | An integrated platform using artificial intelligence to detect fraud and analyze complex banking risks instantly.| SpringBoot · Angular · Kafka · PySpark · SQL · MongoDB · Neo4J · Docker · Kubernetes · Github Actions · scikit-learn · PyTorch · TensorFlow · JUnit · Mockito |
 
 **Completed**
 
