@@ -1,6 +1,6 @@
 ### Hi, I'm Henrique 👾
 
-**Backend Engineer** focused on building robust APIs and financial systems. Currently interning at **Sicoob**, one of Brazil's largest financial cooperatives, working with internal APIs.
+**Backend Engineer** focused on building APIs and learning Software Development.
 
 Software Engineering Student @ UnB - Brasília, Brazil
 
@@ -19,7 +19,6 @@ Software Engineering Student @ UnB - Brasília, Brazil
 
 ### 💼 Currently
 
-- 🏦 **Software Engineering Intern @ Sicoob** — working with internal APIs for a cooperative serving millions of members across Brazil
 - 🏗️ Building **ArgusBank** - an integrated fraud dettection platform with real time risk analysis
 - 📚 Reading different books from the **O'Reilly collection**
 - 🧩 Solving **LeetCode** daily whiilst studying Data Structures through NeetCode 150
