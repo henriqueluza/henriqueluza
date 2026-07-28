@@ -3,6 +3,7 @@
 **Backend Engineer** focused on building APIs and learning Software Development.
 
 Software Engineering Student @ UnB - Brasília, Brazil
+Computer Engineering Student @ CEUB - Brasília, Brazil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-luza/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/hluza/)
@@ -17,32 +18,6 @@ Software Engineering Student @ UnB - Brasília, Brazil
 
 ---
 
-### 💼 Currently
-
-- 🏗️ Building **ArgusBank** - an integrated fraud dettection platform with real time risk analysis
-- 📚 Reading different books from the **O'Reilly collection**
-- 🧩 Solving **LeetCode** daily whiilst studying Data Structures through NeetCode 150
-
----
-
-<!--### 🛠 Tech Stack-->
-
-
-### 🚀 Featured Projects
-
-**On Going**
-
-| Project | Description | Stack |
-|---|---|---|
-| 🚧 **[ArgusBank](https://github.com/henriqueluza/argus-bank)** | An integrated platform using artificial intelligence to detect fraud and analyze complex banking risks instantly.| SpringBoot · Angular · Kafka · PySpark · SQL · MongoDB · Neo4J · Docker · Kubernetes · Github Actions · scikit-learn · PyTorch · TensorFlow · JUnit · Mockito |
-
-**Completed**
-
-| Project | Description | Stack |
-|---|---|---|
-| 🏢 **[CondoManager](https://github.com/henriqueluza/CondoManager)** | REST API for condominium management — Clean Architecture, role-based access, visitor flow | C# · ASP.NET Core 8 · SQL Server · JWT |
-| 📊 **[Credit Analysis Model](https://github.com/henriqueluza/Credit-Analysis-Model)** | End-to-end credit risk analysis with ML, REST API and interactive web interface | Python · scikit-learn · FastAPI |
----
 
 ### 📊 Stats
 
