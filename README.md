@@ -49,6 +49,8 @@ Computer Engineering Student @ CEUB - Brasília, Brazil
 
 ### 📊 Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=henriqueluza&theme=radical&mode=weekly)](https://github.com/henriqueluza)
-[![Top Langs](https://github-readme-stats-hluza.vercel.app/api/top-langs/?username=henriqueluza&layout=compact&theme=radical)](https://github.com/henriqueluza)
-[![GitHub Stats](https://github-readme-stats-hluza.vercel.app/api/?username=henriqueluza&show_icons=true&theme=radical&cache_seconds=7200&hide=issues,contribs)](https://github.com/henriqueluza)
+<div align="center">
+  <img height="180em"src="https://github-readme-streak-stats.herokuapp.com?user=henriqueluza&theme=radical&mode=weekly" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats-hluza.vercel.app/api/top-langs/?username=henriqueluza&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-hluza.vercel.app/api/?username=henriqueluza&show_icons=true&theme=radical&cache_seconds=7200&hide=issues,contribs" />
+</div>
