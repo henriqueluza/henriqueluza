@@ -2,8 +2,9 @@
 
 **Backend Engineer** focused on building APIs and learning Software Development.
 
-Software Engineering Student @ UnB - Brasília, Brazil
-Computer Engineering Student @ CEUB - Brasília, Brazil
+<p>Software Engineering Student @ UnB - Brasília, Brazil</p>
+
+<p>Computer Engineering Student @ CEUB - Brasília, Brazil</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-luza/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/hluza/)
