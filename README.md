@@ -1,12 +1,12 @@
 ### Hi, I'm Henrique 👾
 
-**Backend Engineer** focused on building APIs and learning Software Development.
+**Engenheiro de Backend** focado na construção de APIs, utilizando boas práticas de arquitetura e infraestrutura, aprendendo atualmente sobre Estruturas de Dados e Algoritmos, Arquitetura de Software e DevOps.
 
-Software Engineering Student @ UnB - Brasília, Brazil
+Estudante de Engenharia de Software @ UnB - Brasília, Brazil
 
-Computer Engineering Student @ CEUB - Brasília, Brazil
+Estudante de Engenharia da Computação @ CEUB - Brasília, Brazil
 
-🎧 Currently building **SoundLog** · 🧠 Studying **Data Structures & Algorithms**
+🎧 Atualmente construindo **SoundLog**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-luza/) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/hluza/) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:henriqueluza@gmail.com)
 
@@ -14,7 +14,7 @@ Computer Engineering Student @ CEUB - Brasília, Brazil
 
 ### 📚 Tech Stack
 
-**Languages**
+**Linguagens**
 
 [![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/) [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://www.java.com) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
 
@@ -34,17 +34,16 @@ Computer Engineering Student @ CEUB - Brasília, Brazil
 
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/) [![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)](https://pytest.org/)
 
-**DevOps & Tools**
+**DevOps & Infra**
 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/) [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions) [![k6](https://img.shields.io/badge/k6-7D64FF?style=flat&logo=k6&logoColor=white)](https://k6.io/) [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)](https://swagger.io/)
 
 ---
 
-### 🚧 What I'm up to
+### 🚧 O que tenho feito
 
-- 🎧 Building **SoundLog** — a music logging app (in development)
-- 🧩 Grinding **DSA** on [LeetCode](https://leetcode.com/hluza/)
-
+- 🎧 Construindo **SoundLog** — a music logging app (in development)
+- 🧩 Estudando **DSA** através de problemas do Leetcode e Neetcode
 ---
 
 ### 📊 Stats
