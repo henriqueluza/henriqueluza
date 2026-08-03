@@ -42,7 +42,7 @@ Estudante de Engenharia da Computação @ CEUB - Brasília, Brazil
 
 ### 🚧 O que tenho feito
 
-- 🎧 Construindo **SoundLog** — a music logging app (in development)
+- 🎧 Construindo **SoundLog** — uma rede social de avaliações de álbuns e músicas
 - 🧩 Estudando **DSA** através de problemas do Leetcode e Neetcode
 ---
 
