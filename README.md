@@ -6,7 +6,7 @@ Estudante de Engenharia de Software @ UnB - Brasília, Brazil
 
 Estudante de Engenharia da Computação @ CEUB - Brasília, Brazil
 
-🎧 Atualmente construindo **SoundLog**
+🎧 Atualmente construindo um Sistema de Leilão com Microsserviços
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-luza/) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/hluza/) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:henriqueluza@gmail.com)
 
@@ -42,7 +42,6 @@ Estudante de Engenharia da Computação @ CEUB - Brasília, Brazil
 
 ### 🚧 O que tenho feito
 
-- 🎧 Construindo **SoundLog** — uma rede social de avaliações de álbuns e músicas
 - 🧩 Estudando **DSA** através de problemas do Leetcode e Neetcode
 ---
 
