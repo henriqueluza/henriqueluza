@@ -34,6 +34,11 @@ Estudante de Engenharia da Computação @ CEUB - Brasília, Brazil
   <img src="https://skillicons.dev/icons?i=docker,terraform,githubactions" />
 </p>
 
+**Observabilidade**
+<p>
+  <img src="https://skillicons.dev/icons?i=grafana" />
+</p>
+
 ### 📊 Stats
 <div align="center">
   <img height="180em"src="https://github-readme-streak-stats.herokuapp.com?user=henriqueluza&theme=radical&mode=weekly" alt="GitHub Streak" />
