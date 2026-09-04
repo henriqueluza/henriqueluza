@@ -21,7 +21,7 @@ Estudante de Engenharia da Computação @ CEUB - Brasília, Brazil
 
 **Cloud & Deploy**
 <p>
-  <img src="https://skillicons.dev/icons?i=gcp,firebase,azure,vercel" />
+  <img src="https://skillicons.dev/icons?i=gcp,firebase,azure" />
 </p>
 
 **Banco de Dados**
