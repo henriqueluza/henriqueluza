@@ -1,6 +1,7 @@
 ### Hi, I'm Henrique 👾
-**Engenheiro de Backend** focado na construção de APIs, utilizando boas práticas de arquitetura e infraestrutura, aprendendo atualmente sobre Estruturas de Dados e Algoritmos, Arquitetura de Software e DevOps.
-Estudante de Engenharia de Software @ UnB - Brasília, Brazil
+**Engenheiro de Backend** focado na construção de APIs, utilizando boas práticas de arquitetura e infraestrutura, aprendendo atualmente sobre Estruturas de Dados e Algoritmos, Arquitetura de Software e DevOps. <br>
+<br>
+Estudante de Engenharia de Software @ UnB - Brasília, Brazil <br>
 Estudante de Engenharia da Computação @ CEUB - Brasília, Brazil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-luza/) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/hluza/) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:henriqueluza@gmail.com)
